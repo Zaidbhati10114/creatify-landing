@@ -175,9 +175,9 @@ export const LandingPage = () => {
                 ))}
               </div>
               <p className="text-gray-700 mb-4">
-                "This design tool has transformed my workflow. It's so intuitive
-                and packed with features, I can't imagine designing without it
-                now."
+                &quot;This design tool has transformed my workflow. It&apos;s so
+                intuitive and packed with features, I can&apos;t imagine
+                designing without it now.&quot;
               </p>
               <div className="flex items-center">
                 <Image
@@ -202,8 +202,8 @@ export const LandingPage = () => {
                 ))}
               </div>
               <p className="text-gray-700 mb-4">
-                "The AI features are mind-blowing. Background removal and image
-                generation have saved me hours of manual work."
+                &quot;The AI features are mind-blowing. Background removal and
+                image generation have saved me hours of manual work.&quot;
               </p>
               <div className="flex items-center">
                 <Image
